@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/CRUD/CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/Forms/Forms.iml" filepath="$PROJECT_DIR$/Forms/Forms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE-Revision.iml" filepath="$PROJECT_DIR$/JavaEE-Revision.iml" />
     </modules>
   </component>
 </project>
